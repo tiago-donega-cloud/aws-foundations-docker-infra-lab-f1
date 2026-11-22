@@ -18,7 +18,7 @@
 
   <br/>
 
-  <img src="imagens/Resumo%20do%20Projeto.jpg" width="820" alt="Project Architecture Summary" />
+  <img src="./imagens/Resumo%20do%20Projeto.jpg" width="820" alt="Project Architecture Summary" />
 
 </div>
 
@@ -41,17 +41,17 @@ Practical infrastructure lab developed during the **AWS Foundations Program**, d
 
 | Docker Environment & BIA Application | Data Persistence Validation |
 | :---: | :---: |
-| ![BIA running on VM with Docker](imagens/Bia%20rodando%20na%20VM%20com%20Docker.jpeg) | ![BIA persisting data](imagens/Bia%20persistindo%20dados.jpeg) |
+| ![BIA running on VM with Docker](./imagens/Bia%20rodando%20na%20VM%20com%20Docker.jpeg) | ![BIA persisting data](./imagens/Bia%20persistindo%20dados.jpeg) |
 
 | Database Validation (DBeaver) | AI Terminal Agent (Kiro CLI) |
 | :---: | :---: |
-| ![DBeaver Data](imagens/Dbeaver%20Data.jpeg) | ![Kiro CLI Installed and Updated](imagens/Kiro%20Cli%20instalado%20e%20atualizado.jpeg) |
+| ![DBeaver Data](./imagens/Dbeaver%20Data.jpeg) | ![Kiro CLI Installed and Updated](./imagens/Kiro%20Cli%20instalado%20e%20atualizado.jpeg) |
 
 ---
 
 ### 📄 Full Technical Documentation
 
-- [Access Detailed Lab Report (PDF)](desafio-1-linux-docker-git-e-github.pdf)
+- [Access Detailed Lab Report (PDF)](./desafio-1-linux-docker-git-e-github.pdf)
 
 ---
 
