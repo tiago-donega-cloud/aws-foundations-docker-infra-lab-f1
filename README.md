@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>☁️ AWS Foundations &amp; Docker Infrastructure Lab</h1>
+  <h1>☁️ Lab 01 — Linux, Docker, Databases &amp; Kiro CLI</h1>
 
   <p>
     <strong>Containerized Application Deployment, Data Persistence &amp; AI-Assisted Cloud CLI on Linux</strong>
@@ -18,19 +18,17 @@
 
   <br/>
 
-  <img src="Desafio%20Fundamental%201/imagens/Resumo%20do%20Projeto.jpg" width="820" alt="Project Architecture Summary" />
+  <img src="imagens/Resumo%20do%20Projeto.jpg" width="820" alt="Project Architecture Summary" />
 
 </div>
 
 <br/>
 
-Practical infrastructure portfolio developed during the **AWS Foundations Program**, documenting **Linux** environment provisioning, multi-container orchestration with **Docker Compose**, **PostgreSQL** data persistence validation, **Redis** caching service setup, and AI-assisted terminal workflows.
+Practical infrastructure lab developed during the **AWS Foundations Program**, documenting **Linux** environment provisioning, multi-container orchestration with **Docker Compose**, **PostgreSQL** data persistence validation, **Redis** caching service setup, and AI-assisted terminal workflows.
 
 ---
 
-### 🚀 Lab 01 — Linux, Docker, Databases & Kiro CLI
-
-#### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 - **Operating System:** Linux (Ubuntu VM)
 - **Containers & Orchestration:** Docker & Docker Compose (`bia` web application, `database` PostgreSQL, and `redis`)
 - **Database & Inspection:** PostgreSQL with persistent volumes & DBeaver
@@ -43,17 +41,17 @@ Practical infrastructure portfolio developed during the **AWS Foundations Progra
 
 | Docker Environment & BIA Application | Data Persistence Validation |
 | :---: | :---: |
-| ![BIA running on VM with Docker](Desafio%20Fundamental%201/imagens/Bia%20rodando%20na%20VM%20com%20Docker.jpeg) | ![BIA persisting data](Desafio%20Fundamental%201/imagens/Bia%20persistindo%20dados.jpeg) |
+| ![BIA running on VM with Docker](imagens/Bia%20rodando%20na%20VM%20com%20Docker.jpeg) | ![BIA persisting data](imagens/Bia%20persistindo%20dados.jpeg) |
 
 | Database Validation (DBeaver) | AI Terminal Agent (Kiro CLI) |
 | :---: | :---: |
-| ![DBeaver Data](Desafio%20Fundamental%201/imagens/Dbeaver%20Data.jpeg) | ![Kiro CLI Installed and Updated](Desafio%20Fundamental%201/imagens/Kiro%20Cli%20Instalado%20e%20atualizado.jpeg) |
+| ![DBeaver Data](imagens/Dbeaver%20Data.jpeg) | ![Kiro CLI Installed and Updated](imagens/Kiro%20Cli%20instalado%20e%20atualizado.jpeg) |
 
 ---
 
 ### 📄 Full Technical Documentation
 
-- [Access Detailed Lab Report (PDF)](Desafio%20Fundamental%201/desafio-1-linux-docker-git-e-github.pdf)
+- [Access Detailed Lab Report (PDF)](desafio-1-linux-docker-git-e-github.pdf)
 
 ---
 
