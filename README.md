@@ -26,7 +26,7 @@
 
 Practical infrastructure lab developed during the **AWS Foundations Program**, documenting **Linux** environment provisioning, multi-container orchestration with **Docker Compose**, **PostgreSQL** data persistence validation, **Redis** caching service setup, and AI-assisted terminal workflows.
 
----
+---S
 
 ### 🛠️ Technologies & Tools
 - **Operating System:** Linux (Ubuntu VM)
