@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-
+ 
   <br/>
 
   <img src="Desafio%20Fundamental%201/imagens/Resumo%20do%20Projeto.jpg" width="820" alt="Project Architecture Summary" />
